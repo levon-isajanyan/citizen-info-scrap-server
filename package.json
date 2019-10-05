@@ -1,0 +1,35 @@
+{
+  "name": "endpoints",
+  "version": "0.0.1",
+  "description": "People information endpoints",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "find",
+    "people",
+    "public",
+    "info"
+  ],
+  "author": "levonisadjanyan@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "cheero": "0.0.1",
+    "clean-deep": "^3.0.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "mongoose": "^5.1.6",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "request": "^2.87.0",
+    "string-to-dom": "^0.1.5",
+    "util": "^0.11.0"
+  }
+}
