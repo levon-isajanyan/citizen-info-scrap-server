@@ -23,7 +23,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "fs": "0.0.1-security",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "mongoose": "^5.1.6",
     "morgan": "^1.9.0",
     "path": "^0.12.7",
